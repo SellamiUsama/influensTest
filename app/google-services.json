@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "952442639776",
+    "firebase_url": "https://influensapp.firebaseio.com",
+    "project_id": "influensapp",
+    "storage_bucket": "influensapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952442639776:android:4da09415f3d3f82822c0c5",
+        "android_client_info": {
+          "package_name": "com.example.influensapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952442639776-6bn2dulk2e56gqlsa9u5gon1qkd3ob47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.influensapp",
+            "certificate_hash": "9c38156f7803b1a55cc59f5c6f323a31f81b8855"
+          }
+        },
+        {
+          "client_id": "952442639776-bbgsof97kqunkem1tg3dpmrv6vsifo9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtEge7hn3YXJvnGEAozBATl2zsYyEl6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952442639776-bbgsof97kqunkem1tg3dpmrv6vsifo9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
